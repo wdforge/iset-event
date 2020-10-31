@@ -10,7 +10,8 @@
     }
   ],
   "require": {
-    "php": ">=7.0.0"
+    "php": ">=7.0.0",
+    "iset-framework/utils":">=0.1-beta.2"
   },
   "autoload": {
     "psr-4": {
